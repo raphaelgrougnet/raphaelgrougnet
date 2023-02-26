@@ -32,7 +32,7 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 ![CSS](https://img.shields.io/badge/css-264de4?logo=css3&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-cd6799?logo=sass&logoColor=white&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-ffe56b?logo=python&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3d7aab?logo=python&logoColor=black&style=for-the-badge)
 - Frameworks et bibliothèques :
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8312fa?logo=bootstrap&logoColor=white&style=for-the-badge)
