@@ -26,9 +26,13 @@ Voici une liste des travaux les plus récents auxquels j'ai participé récemmen
 
 Voici une liste des compétences clés que je possède en tant que développeur :
 
-- Langages de programmation : JavaScript, Python, SQL, HTML, CSS, SASS, C#.
-- Frameworks et bibliothèques : WPF, Flask, Bootstrap, JQuery, Jinja.
-- Outils de développement : Git, Visual Studio Code, Visual Studio, PyCharm.
+- Langages de programmation : ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge), ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge), SQL, HTML, CSS, SASS, C#.
+- Frameworks et bibliothèques : Flask, Bootstrap, JQuery, Jinja.
+- Outils de développement : ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-e9f352?logo=pycharm&logoColor=000&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contact 📲
 
