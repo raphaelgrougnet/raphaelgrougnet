@@ -16,11 +16,12 @@ Mon profil contient la grande majorité de mes projets et travaux de développem
 
 Voici une liste des travaux les plus récents auxquels j'ai participé récemment :
 
+- [Wikipieda](https://github.com/raphaelgrougnet/wikipieda) : un site-web sur le thème d'une encyclopédie, composé d'une base de donnée MySQL. Site-web réactif, qui s'adapte à la base de donnée, avec des templates faites en Jinja2, Python et le framework Flask.
+
 - [MarioNRabbits](https://github.com/raphaelgrougnet/MarioNRabbits) : une reprise du jeu Mario et les Lapin crétins en 2d avec système de deplacement, attaques, et capacités spéciales. Ce travail à été réalisé en C# avec les interfaces WPF
 
 - [Abbibas-POS](https://github.com/raphaelgrougnet/Abibas-POS) : une application simulant un point de vente de magasin de vêtements et ayant pour but d'integrer un SGBD MySql afin de stocker les informations sur serveur local en WPF C#.
 
-- [Carrouf](https://github.com/raphaelgrougnet/Carrouf) : un site-web ayant pour thème un site de supermarché avec comme fonctionnalité d'effectuer des commandes fictives d'articles et pour but d'utiliser JavaScript. [Voci la démo](https://raphaelgrougnet.github.io/Carrouf/)
 
 ## Compétences 🧠
 
