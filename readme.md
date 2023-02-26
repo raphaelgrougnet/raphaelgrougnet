@@ -47,7 +47,7 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 
 ## Contact 📲
 
-Si vous êtes intéressé par mon travail ou si vous avez des questions, n'hésitez pas à me contacter à travers mon compte [LinkedIn](https://www.linkedin.com/in/raphael-grougnet/).
+Si vous êtes intéressé par mon travail ou si vous avez des questions, n'hésitez pas à me contacter à travers mon compte [![lkn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/raphael-grougnet)
 
 Je suis toujours ouvert aux collaborations et aux projets intéressants, alors n'hésitez pas à me contacter si vous avez quelque chose en tête.
 
