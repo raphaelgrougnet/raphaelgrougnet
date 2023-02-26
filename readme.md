@@ -1,8 +1,18 @@
-# Bienvenue sur mon profil GitHub
 
+<img src="https://raw.githubusercontent.com/raphaelgrougnet/raphaelgrougnet/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Nombre de visiteurs<br>
+  <img src="https://profile-counter.glitch.me/raphaelgrougnet/count.svg" />
+</p>
+
+## A propos de moi 👨‍💻
+
+Moi c'est Raphaël, je suis un étudiant en développement web / application bureau et mobile.
+J'aime beaucoup développer des sites-web front end et découvrir de nouvelles manière de développer afin d'être plus efficace.
 Mon profil contient la grande majorité de mes projets et travaux de développement les plus récents. N'hésitez pas à les explorer et à me contacter si vous avez des questions ou des commentaires.
 
-## Projets
+## Projets 🛠️
 
 Voici une liste des travaux les plus récents auxquels j'ai participé récemment :
 
@@ -12,7 +22,7 @@ Voici une liste des travaux les plus récents auxquels j'ai participé récemmen
 
 - [Carrouf](https://github.com/raphaelgrougnet/Carrouf) : un site-web ayant pour thème un site de supermarché avec comme fonctionnalité d'effectuer des commandes fictives d'articles et pour but d'utiliser JavaScript. [Voci la démo](https://raphaelgrougnet.github.io/Carrouf/)
 
-## Compétences
+## Compétences 🧠
 
 Voici une liste des compétences clés que je possède en tant que développeur :
 
@@ -20,7 +30,7 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 - Frameworks et bibliothèques : WPF, Flask, Bootstrap, JQuery, Jinja.
 - Outils de développement : Git, Visual Studio Code, Visual Studio, PyCharm.
 
-## Contact
+## Contact 📲
 
 Si vous êtes intéressé par mon travail ou si vous avez des questions, n'hésitez pas à me contacter à travers mon compte [LinkedIn](https://www.linkedin.com/in/raphael-grougnet/).
 
