@@ -16,13 +16,13 @@ Voici une liste des travaux les plus récents auxquels j'ai participé récemmen
 
 Voici une liste des compétences clés que je possède en tant que développeur :
 
-- Langages de programmation : JavaScript, Python, SQL, HTML, CSS, SASS.
+- Langages de programmation : JavaScript, Python, SQL, HTML, CSS, SASS, C#.
 - Frameworks et bibliothèques : WPF, Flask, Bootstrap, JQuery, Jinja.
 - Outils de développement : Git, Visual Studio Code, Visual Studio, PyCharm.
 
 ## Contact
 
-Si vous êtes intéressé par mon travail ou si vous avez des questions, n'hésitez pas à me contacter à travers mon compte LinkedIn.
+Si vous êtes intéressé par mon travail ou si vous avez des questions, n'hésitez pas à me contacter à travers mon compte [LinkedIn](https://www.linkedin.com/in/raphael-grougnet/).
 
 Je suis toujours ouvert aux collaborations et aux projets intéressants, alors n'hésitez pas à me contacter si vous avez quelque chose en tête.
 
