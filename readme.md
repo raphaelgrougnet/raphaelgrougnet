@@ -20,7 +20,7 @@ Mes projets d'applications et de site complets :
 
 Voici une liste des travaux les plus récents auxquels j'ai participé récemment :
 
-- [Wikipieda](http://raphaelgrougnet.pythonanywhere.com) : un site-web sur le thème d'une encyclopédie, composé d'une base de donnée MySQL. Site-web réactif, qui s'adapte à la base de donnée, avec des templates faites en Jinja2, Python et le framework Flask.
+- [Wikipieda](http://github.com/raphaelgrougnet/Wikipieda) : un site-web sur le thème d'une encyclopédie, composé d'une base de donnée MySQL. Site-web réactif, qui s'adapte à la base de donnée, avec des templates faites en Jinja2, Python et le framework Flask.
 
 - [MarioNRabbits](https://github.com/raphaelgrougnet/MarioNRabbits) : une reprise du jeu Mario et les Lapin crétins en 2d avec système de deplacement, attaques, et capacités spéciales. Ce travail à été réalisé en C# avec les interfaces WPF
 
