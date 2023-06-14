@@ -1,11 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/raphaelgrougnet/raphaelgrougnet/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Nombre de visiteurs<br>
-  <img src="https://profile-counter.glitch.me/raphaelgrougnet/count.svg" />
-</p>
-
 ## A propos de moi 👨‍💻
 
 Moi c'est Raphaël, je suis un étudiant en développement web / application bureau et mobile.
