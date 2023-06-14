@@ -9,7 +9,7 @@ Mon profil contient la grande majorité de mes projets et travaux de développem
 
 ## Projets 🛠️
 
-Mes projets d'applications et de site complets :
+Mes projets d'applications et de site complètement fonctionnels :
 
 - [POCO](https://github.com/raphaelgrougnet/Poco) : une application POS (Point of Sale) pour le restaurant mexicain Poco est un système de traitement des transactions qui permet aux employés de prendre les commandes, de les enregistrer et de les facturer de manière efficace et rapide, réalisé en C# avec les interfaces WPF comprenant une stockage des données local avec fichiers JSON et CSV.
 
