@@ -37,9 +37,9 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 ![Kotlin](https://img.shields.io/badge/kotlin%20-7048d1.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 - Frameworks et bibliothèques :
   
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8312fa?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![JQuery](https://img.shields.io/badge/JQuery-0868ac?logo=jquery&logoColor=000&style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![Jinja](https://img.shields.io/badge/Jinja-b41717?logo=jinja&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django%20-%23103e2e.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%7fc728.svg?&style=for-the-badge&logo=node.js&logoColor=white)
