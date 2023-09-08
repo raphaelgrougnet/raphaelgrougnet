@@ -15,9 +15,9 @@ Mes projets d'applications et de site complètement fonctionnels :
 
 Voici une liste des travaux les plus récents auxquels j'ai participé récemment :
 
-- [Casino Richos](https://github.com/raphaelgrougnet/CasinoAndroid) : une application de Casino construite sur AndroidStudio
+- [Casino Richos](https://github.com/raphaelgrougnet/CasinoAndroid) : une application de Casino construite sur AndroidStudio.
 
-- [RERS](https://github.com/raphaelgrougnet/RERS) : un site-web dynamique ayant comme concept un Réseau d'Echange Réciproque de Savoir (RERS), généré grâce au framework Django
+- [RERS](https://github.com/raphaelgrougnet/RERS) : un site-web dynamique ayant comme concept un Réseau d'Echange Réciproque de Savoir (RERS), généré grâce au framework Django.
 
 - [AuctionBay](http://github.com/raphaelgrougnet/AuctionBay) : un site-web dynamique ayant pour thème un regroupement d'enchères, et pour but d'implémenter Ajax et l'authentification.
 
