@@ -15,7 +15,7 @@ Mes projets d'applications et de site complètement fonctionnels :
 
 Voici une liste des travaux les plus récents auxquels j'ai participé récemment :
 
-- [Casino Richos](http://github.com/raphaelgrougnet/Wikipieda) : un site-web sur le thème d'une encyclopédie, composé d'une base de donnée MySQL. Site-web réactif, qui s'adapte à la base de donnée, avec des templates faites en Jinja2, Python et le framework Flask.
+- [Casino Richos](https://github.com/raphaelgrougnet/CasinoAndroid) : une application de Casino construite sur AndroidStudio
 
 - [RERS](https://github.com/raphaelgrougnet/RERS) : un site-web dynamique ayant comme concept un Réseau d'Echange Réciproque de Savoir (RERS), généré grâce au framework Django
 
