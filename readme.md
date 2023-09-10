@@ -42,7 +42,6 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![Jinja](https://img.shields.io/badge/Jinja-b41717?logo=jinja&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django%20-%23103e2e.svg?&style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20-%7fc728.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express%20-3f4d58.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js%20-3fb984.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 - Outils de développement :
@@ -53,6 +52,7 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 ![PyCharm](https://img.shields.io/badge/PyCharm-e9f352?logo=pycharm&logoColor=000&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo_db%20-086d50.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js%20-%7fc728.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio%20-2f8857.svg?&style=for-the-badge&logo=android&logoColor=white)
 
 ## Contact 📲
