@@ -15,7 +15,7 @@ Mes projets d'applications et de site complètement fonctionnels :
 
 Voici une liste des travaux les plus récents auxquels j'ai contrinué partiellement ou pleinement récemment :
 
-- [Flashcards](https://github.com/raphaelgrougnet/Flashcards) : une application de flashcards. Il utilise Node.js, Express et MongoDB pour créer une API RESTful.
+- [Flashcards](https://github.com/raphaelgrougnet/Flashcard) : une application de flashcards. Il utilise Node.js, Express et MongoDB pour créer une API RESTful.
   
 - [Casino Richos](https://github.com/raphaelgrougnet/CasinoAndroid) : une application de Casino construite sur AndroidStudio.
 
