@@ -15,16 +15,6 @@ Mes projets d'applications et de site complètement fonctionnels :
 
 - [Cinerama](https://github.com/raphaelgrougnet/Cinerama) : un site cinématographique développé en Python Flask avec MongoDB hébergé sur PythonAnywhere, offre des critiques approfondies rédigées par des experts en cinéma. La plateforme encourage l'interaction au sein d'une communauté active, permettant aux utilisateurs de parcourir, commenter et partager leurs propres avis sur une variété de films, des classiques aux dernières sorties. Rejoignez l'aventure cinématographique sur Cinerama, où chaque film raconte une histoire et mérite une critique complète.
 
-Voici une liste des travaux les plus récents auxquels j'ai contrinué partiellement ou pleinement récemment :
-
-- [Flashcards](https://github.com/raphaelgrougnet/Flashcard) : une application de flashcards. Il utilise Node.js, Express et MongoDB pour créer une API RESTful.
-  
-- [Casino Richos](https://github.com/raphaelgrougnet/CasinoAndroid) : une application de Casino construite sur AndroidStudio.
-
-- [RERS](https://github.com/raphaelgrougnet/RERS) : un site-web dynamique ayant comme concept un Réseau d'Echange Réciproque de Savoir (RERS), généré grâce au framework Django.
-
-
-
 ## Compétences 🧠
 
 Voici une liste des compétences clés que je possède en tant que développeur :
