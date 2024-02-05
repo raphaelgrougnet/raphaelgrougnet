@@ -29,34 +29,35 @@ Voici une liste des travaux les plus récents auxquels j'ai contrinué partielle
 
 Voici une liste des compétences clés que je possède en tant que développeur :
 
-- Langages de programmation :
-  
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
+- FrontEnd :
+
 ![HTML](https://img.shields.io/badge/HTML-e44d26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/css-264de4?logo=css3&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-cd6799?logo=sass&logoColor=white&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3d7aab?logo=python&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/kotlin%20-7048d1.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-- Frameworks et bibliothèques :
-  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?logo=typescript&logoColor=FFF&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js%20-3fb984.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8312fa?logo=bootstrap&logoColor=white&style=for-the-badge)
+![TailWindCSS](https://img.shields.io/badge/Tailwind-36b7f0?logo=tailwindcss&logoColor=FFF&style=for-the-badge)
 ![JQuery](https://img.shields.io/badge/JQuery-0868ac?logo=jquery&logoColor=000&style=for-the-badge&logoColor=white)
+
+
+- BackEnd :
+  
+![Python](https://img.shields.io/badge/python-3d7aab?logo=python&logoColor=white&style=for-the-badge)
+![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge)
-![Jinja](https://img.shields.io/badge/Jinja-b41717?logo=jinja&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django%20-%23103e2e.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/express%20-3f4d58.svg?&style=for-the-badge&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js%20-3fb984.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
-- Outils de développement :
-  
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/PyCharm-e9f352?logo=pycharm&logoColor=000&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongo_db%20-086d50.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%7fc728.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android_studio%20-2f8857.svg?&style=for-the-badge&logo=android&logoColor=white)
+
+- Applications Android :
+
+![Kotlin](https://img.shields.io/badge/kotlin%20-7048d1.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+
 
 ## Contact 📲
 
