@@ -35,7 +35,7 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 - BackEnd :
   
 ![Python](https://img.shields.io/badge/python-3d7aab?logo=python&logoColor=white&style=for-the-badge)
-![C Sharp](https://img.shields.io/badge/C%20Sharp-a27add?logo=csharp&logoColor=fff&style=for-the-badge)
+![C Sharp](https://img.shields.io/badge/C%20Sharp-360092?logo=csharp&logoColor=fff&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django%20-%23103e2e.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/express%20-3f4d58.svg?&style=for-the-badge&logo=express&logoColor=white)
