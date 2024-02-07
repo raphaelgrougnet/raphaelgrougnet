@@ -43,11 +43,6 @@ Voici une liste des compétences clés que je possède en tant que développeur 
 ![MongoDB](https://img.shields.io/badge/mongo_db%20-086d50.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%7fc728.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
-- Applications Android :
-
-![Kotlin](https://img.shields.io/badge/kotlin%20-7048d1.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-
 
 ## Contact 📲
 
