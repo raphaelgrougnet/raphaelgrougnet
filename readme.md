@@ -13,7 +13,7 @@ Mes projets d'applications et de site complètement fonctionnels :
 
 - [POCO](https://github.com/raphaelgrougnet/Poco) : une application POS (Point of Sale) pour le restaurant mexicain Poco est un système de traitement des transactions qui permet aux employés de prendre les commandes, de les enregistrer et de les facturer de manière efficace et rapide, réalisé en C# avec les interfaces WPF comprenant une stockage des données local avec fichiers JSON et CSV.
 
-- [Cinerama](https://github.com/raphaelgrougnet/Cinerama) : un site cinématographique développé en Python Flask avec MongoDB hébergé sur PythonAnywhere, offre des critiques approfondies rédigées par des experts en cinéma. La plateforme encourage l'interaction au sein d'une communauté active, permettant aux utilisateurs de parcourir, commenter et partager leurs propres avis sur une variété de films, des classiques aux dernières sorties. Rejoignez l'aventure cinématographique sur Cinerama, où chaque film raconte une histoire et mérite une critique complète.
+- [Cinerama](https://github.com/raphaelgrougnet/Cinerama) : un site cinématographique développé en Python Flask avec MongoDB hébergé sur PythonAnywhere, offre des critiques approfondies rédigées par les utilisateurs amateurs de cinema. La plateforme encourage l'interaction permettant aux utilisateurs de parcourir, commenter et partager leurs propres avis sur une variété de films, des classiques aux dernières sorties.
 
 ## Compétences 🧠
 
