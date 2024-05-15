@@ -15,7 +15,7 @@ Mes projets d'applications et de site complètement fonctionnels :
 
 - [Cinerama](https://github.com/raphaelgrougnet/Cinerama) : un site cinématographique développé en Python Flask avec MongoDB hébergé sur PythonAnywhere, offre des critiques approfondies rédigées par les utilisateurs amateurs de cinema. La plateforme encourage l'interaction permettant aux utilisateurs de parcourir, commenter et partager leurs propres avis sur une variété de films, des classiques aux dernières sorties.
 
-- [Jolis Oiseaux](https://raphaelgrougnet.github.io/jolisoiseaux-docs/) : un projet de veille technologique visant à concevoir une mangeoire à oiseaux capable de prendre automatiquement des photos des oiseaux, grâce à un modèle d'IA entraîné à la reconnaissance de formes. Réalisé avec un Raspberry Pi, une caméra et un site web en Flask, ce projet a été mis en œuvre avec succès. [Documentation](https://raphaelgrougnet.github.io/jolisoiseaux-docs/), [Application web](https://raphaelgrougnet.github.io/jolisoiseaux-app/)
+- [Jolis Oiseaux](https://raphaelgrougnet.github.io/jolisoiseaux-docs/) : un projet de veille technologique visant à concevoir une mangeoire à oiseaux capable de prendre automatiquement des photos des oiseaux, grâce à un modèle d'IA entraîné à la reconnaissance de formes. Réalisé avec un Raspberry Pi, une caméra et un site web en Flask, ce projet a été mis en œuvre avec succès. [Documentation](https://raphaelgrougnet.github.io/jolisoiseaux-docs/), [Application web](https://github.com/raphaelgrougnet/jolisoiseaux-app)
 
 ## Compétences 🧠
 
