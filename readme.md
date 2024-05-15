@@ -2,7 +2,7 @@
 
 Moi c'est Raphaël, je suis un étudiant en développement web / application bureau et mobile.
 J'aime beaucoup développer des sites-web front end et découvrir de nouvelles manière de développer afin d'être plus efficace.
-Mon profil contient la grande majorité de mes projets et travaux de développement les plus récents. N'hésitez pas à les explorer et à me contacter si vous avez des questions ou des commentaires.
+Mon profil contient la grande majorité de mes projets de développement les plus récents. N'hésitez pas à les explorer et à me contacter si vous avez des questions ou des commentaires.
 
 ## Projets 🛠️
 
