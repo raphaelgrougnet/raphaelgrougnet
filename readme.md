@@ -49,4 +49,4 @@ Si vous êtes intéressé par mon travail ou si vous avez des questions, n'hési
 
 Je suis toujours ouvert aux collaborations et aux projets intéressants, alors n'hésitez pas à me contacter si vous avez quelque chose en tête.
 
-Vous pouvez aussi consulter mon [site-web](https://raphaelgrougnet.com) afin de consulter plus aisément mes projets.
+Vous pouvez aussi consulter mon [**portfolio**](https://raphaelgrougnet.com) afin de consulter plus aisément mes projets.
