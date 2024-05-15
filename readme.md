@@ -1,6 +1,3 @@
-
-<img src="https://raw.githubusercontent.com/raphaelgrougnet/raphaelgrougnet/master/resources/banner.png" alt="Hello world">
-
 ## A propos de moi 👨‍💻
 
 Moi c'est Raphaël, je suis un étudiant en développement web / application bureau et mobile.
