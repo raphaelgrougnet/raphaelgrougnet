@@ -8,11 +8,16 @@ Mon profil contient la grande majorité de mes projets de développement les plu
 
 Mes projets d'applications et de site complètement fonctionnels :
 
-- [POCO](https://github.com/raphaelgrougnet/Poco) : une application POS (Point of Sale) pour le restaurant mexicain Poco est un système de traitement des transactions qui permet aux employés de prendre les commandes, de les enregistrer et de les facturer de manière efficace et rapide, réalisé en C# avec les interfaces WPF comprenant une stockage des données local avec fichiers JSON et CSV.
+- [FinanceFlow](https://raphaelgrougnet.github.io/FinanceFlow/) : un projet personnel destiné à créer une application web pour la gestion des dépenses et des revenus. Cette application permet à chacun de créer un compte et de visualiser ses finances d'un seul coup d'œil, facilitant ainsi le suivi et la gestion de son budget.
 
-- [Cinerama](https://github.com/raphaelgrougnet/Cinerama) : un site cinématographique développé en Python Flask avec MongoDB hébergé sur PythonAnywhere, offre des critiques approfondies rédigées par les utilisateurs amateurs de cinema. La plateforme encourage l'interaction permettant aux utilisateurs de parcourir, commenter et partager leurs propres avis sur une variété de films, des classiques aux dernières sorties.
+- [DashboardProgramme](https://github.com/raphaelgrougnet/DashboardProgramme) : un projet d'équipe réalisé à 4 visant à creer un site web qui permet de télécharger un fichier Excel volumineux généré à la fin de chaque session au Cégep Garneau, de le traiter, puis d'afficher de nombreux graphiques et calculs de statistiques avancées. (En collaboration avec [Spektrum Media](https://spektrummedia.com))
 
 - [Jolis Oiseaux](https://github.com/raphaelgrougnet/JolisOiseaux) : un projet de veille technologique visant à concevoir une mangeoire à oiseaux capable de prendre automatiquement des photos des oiseaux, grâce à un modèle d'IA entraîné à la reconnaissance de formes. Réalisé avec un Raspberry Pi, une caméra et un site web en Flask, ce projet a été mis en œuvre avec succès. [Documentation](https://raphaelgrougnet.github.io/jolisoiseaux-docs/), [Application web](https://github.com/raphaelgrougnet/jolisoiseaux-app), [Code Raspberry Pi](https://github.com/raphaelgrougnet/jolisoiseaux-raspberrypi)
+
+- [Cinerama](https://github.com/raphaelgrougnet/Cinerama) : un site cinématographique développé en Python Flask avec MongoDB hébergé sur PythonAnywhere, offre des critiques approfondies rédigées par les utilisateurs amateurs de cinema. La plateforme encourage l'interaction permettant aux utilisateurs de parcourir, commenter et partager leurs propres avis sur une variété de films, des classiques aux dernières sorties.
+  
+- [POCO](https://github.com/raphaelgrougnet/Poco) : une application POS (Point of Sale) pour le restaurant mexicain Poco est un système de traitement des transactions qui permet aux employés de prendre les commandes, de les enregistrer et de les facturer de manière efficace et rapide, réalisé en C# avec les interfaces WPF comprenant une stockage des données local avec fichiers JSON et CSV.
+
 
 ## Compétences 🧠
 
