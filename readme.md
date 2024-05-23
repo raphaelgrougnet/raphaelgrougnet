@@ -8,7 +8,7 @@ Mon profil contient la grande majorité de mes projets de développement les plu
 
 Mes projets d'applications et de site complètement fonctionnels :
 
-- [FinanceFlow](https://raphaelgrougnet.github.io/FinanceFlow/) : un projet personnel destiné à créer une application web pour la gestion des dépenses et des revenus. Cette application permet à chacun de créer un compte et de visualiser ses finances d'un seul coup d'œil, facilitant ainsi le suivi et la gestion de son budget.
+- [FinanceFlow](https://financeflow.cc) : un projet personnel destiné à créer une application web pour la gestion des dépenses et des revenus. Cette application permet à chacun de créer un compte et de visualiser ses finances d'un seul coup d'œil, facilitant ainsi le suivi et la gestion de son budget.
 
 - [DashboardProgramme](https://github.com/raphaelgrougnet/DashboardProgramme) : un projet d'équipe réalisé à 4 visant à creer un site web qui permet de télécharger un fichier Excel volumineux généré à la fin de chaque session au Cégep Garneau, de le traiter, puis d'afficher de nombreux graphiques et calculs de statistiques avancées. (En collaboration avec [Spektrum Media](https://spektrummedia.com))
 
